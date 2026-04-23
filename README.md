@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-Hi, I'm Asha and I'm currently a Computer Science student with a strong interest in AI and machine learning.
+Hi, my name is Asha and I'm a Computer Science student with a strong interest in AI and machine learning :)
 
 🤖🩺 I’m especially passionate about the intersection of AI and healthcare and exploring how intelligent systems can improve early diagnosis, personalize treatment, and make healthcare more accessible and efficient.
 
